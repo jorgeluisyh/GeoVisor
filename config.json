@@ -18,7 +18,7 @@
       "useLogo": false
     }
   },
-  "portalUrl": "https://jorgey-inei.maps.arcgis.com",
+  "portalUrl": "http://www.arcgis.com",
   "appId": "",
   "authorizedCrossOriginDomains": [],
   "title": "Mapa Departamentos Perú 2019",
@@ -175,7 +175,7 @@
     "itemId": "f4a03bb051124e428d753c2f2c590eef",
     "mapOptions": {},
     "id": "map",
-    "portalUrl": "https://jorgey-inei.maps.arcgis.com/",
+    "portalUrl": "http://www.arcgis.com",
     "appProxy": {
       "mapItemId": "f4a03bb051124e428d753c2f2c590eef",
       "proxyItems": []
